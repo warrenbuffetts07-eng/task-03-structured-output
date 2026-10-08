@@ -1,0 +1,9 @@
+VISHAL TRADERS is a retail agricultural equipment shop located in Lugharwara, Seoni, Madhya Pradesh.
+
+The shop sells agricultural equipment including cultivators, trolleys, rotavators and seedrills.
+
+Customer records use name, mobile number and address. Customer GSTIN is not required for the basic customer record.
+
+The shop wants automatic stock reduction after sales. Cancelled bills should be voided rather than permanently deleted.
+
+Supported payment methods include Cash, UPI, Bank, Credit and Cheque.

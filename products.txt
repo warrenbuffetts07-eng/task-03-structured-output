@@ -1,0 +1,9 @@
+PRODUCT INFORMATION
+
+Cultivators use fixed prices for different weight variants. A 370 kg cultivator is an example of a fixed-weight variant.
+
+Trolleys use a variable rate per kilogram. An example rate is 95 rupees per kilogram. For stock tracking, trolleys are counted as whole units such as 1, 2 or 3.
+
+For the demonstration billing rules, prices are treated as GST-inclusive totals. A total of 46,000 rupees at 5% GST can be split into a taxable value of 43,700 rupees and GST of 2,300 rupees.
+
+Product prices are tentative and may be changed later based on market conditions. Products can be added, modified or deleted.
